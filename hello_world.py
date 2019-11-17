@@ -1,6 +1,6 @@
 print('hello world')
 
-print('grieojgiroej'   )
+print('grieojgiroej')
 
 
-print('guriegh' )
+print('guriegh')
